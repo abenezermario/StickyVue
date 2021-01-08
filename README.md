@@ -19,6 +19,9 @@ npm run build
 ```
 npm run lint
 ```
-
+### Running the App
+```
+vue ui(should open in local host and run it from there)/recommeded option
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
